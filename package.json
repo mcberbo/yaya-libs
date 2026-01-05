@@ -1,0 +1,25 @@
+{
+  "name": "yaya-libs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcberbo/yaya-libs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcberbo/yaya-libs/issues"
+  },
+  "homepage": "https://github.com/mcberbo/yaya-libs#readme",
+  "description": "",
+  "devDependencies": {
+    "@angular/cli": "~21.0.0",
+    "@nx/angular": "^22.3.3",
+    "@nx/workspace": "^22.3.3",
+    "nx": "22.3.3"
+  },
+  "nx": {}
+}
